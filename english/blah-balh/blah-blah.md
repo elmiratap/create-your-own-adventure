@@ -6,4 +6,4 @@ And sing if possible. Singing cheers people up.
 
 If no sing [go back](../marshmallow.md)
 
-Or go [drink a coffee](../coffee/novel/full-length-novel.md) to get your courage up
+Or [drink a coffee](../coffee/novel/full-length-novel.md) to get your courage up
